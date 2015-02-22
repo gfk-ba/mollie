@@ -1,0 +1,1 @@
+Mollie = Npm.require("mollie-api-node");
